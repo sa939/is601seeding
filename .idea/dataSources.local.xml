@@ -6,6 +6,11 @@
         <identifier-quote-string>&quot;</identifier-quote-string>
       </database-info>
       <case-sensitivity plain-identifiers="mixed" quoted-identifiers="mixed" />
+<<<<<<< HEAD
+=======
+      <secret-storage>master_key</secret-storage>
+      <auth-required>false</auth-required>
+>>>>>>> bfcb5ca653e95ab66dfdea320d4cfa81def37b82
       <introspection-schemas>*:@</introspection-schemas>
     </data-source>
   </component>
